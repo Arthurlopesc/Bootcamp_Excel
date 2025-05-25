@@ -12,3 +12,6 @@ Além disso, foram disseminadas boas praticas, como a nomeação de celulas e ta
 
 ## Projeto 02 : Organizador de Declaração de Imposto de Renda 
 Consiste em uma planilha de organização de informações para o imposto de Renda com navegabilidade dinâmica. 
+
+## Projeto 03 : Dashboard de vendas - XBOX 
+Um Dashboard que trás a visão anual, trimestral e mensal de assinaturas XBOX Game Pass.
