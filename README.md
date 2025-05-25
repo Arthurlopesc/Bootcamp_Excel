@@ -8,4 +8,7 @@ O objetivo desse projeto é criar um simulador para responder as seguintes pergu
 -Taxa de Rendimento mensal ?	<br>
 -Patrimônio acumulado ?	<br>
 -Dividendos Mensais ?	<br>
-Além disso, foram disseminadas boas praticas, como a nomeação de celulas. O projeto também mostra mostra a distribuição de investimentos de acordo com o perfil do investidor. 
+Além disso, foram disseminadas boas praticas, como a nomeação de celulas e tabela de apoio. O projeto também mostra mostra a distribuição de investimentos de acordo com o perfil do investidor. 
+
+## Projeto 02 : Organizador de Declaração de Imposto de Renda 
+Consiste em uma planilha de organização de informações para o imposto de Renda com navegabilidade dinâmica. 
